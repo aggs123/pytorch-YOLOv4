@@ -7,7 +7,7 @@
 A minimal PyTorch implementation of YOLOv4.
 - Paper Yolo v4: https://arxiv.org/abs/2004.10934
 - Source code:https://github.com/AlexeyAB/darknet
-- More details: http://pjreddie.com/darknet/yolo/
+- More details base: http://pjreddie.com/darknet/yolo/
 
 
 - [x] Inference
